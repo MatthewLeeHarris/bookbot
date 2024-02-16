@@ -1,1 +1,1 @@
-# bookbot
+BookBot can analyze an entire book and print out a statistical report.
